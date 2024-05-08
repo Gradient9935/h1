@@ -119,6 +119,10 @@
             "name": "🚀荷城茶秀2"
         },
         {
+            "url": "http://rihou.vip:55/天天开心",
+            "name": "🚀天天开心"
+        },
+        {
             "url": "https://szyyds.cn/tv/x.json",
             "name": "🚀小马"
         },
@@ -191,6 +195,10 @@
             "name": "欧歌"
         },
         {
+            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "name": "🚀欧歌2"
+        },
+        {
             "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
             "name": "🚀夜猫子"
         },
@@ -199,8 +207,28 @@
             "name": "🚀业余"
         },
         {
+            "url": "https://47.108.190.141/wx/yydf/yydf.json",
+            "name": "🚀业余2"
+        },
+        {
             "url": "http://175.24.189.226/xc.json",
             "name": "🚀玉玉"
+        },
+        {
+            "url": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json",
+            "name": "🚀玉玉2"
+        },
+        {
+            "url": "http://175.24.189.226/box/tvbox/PG/PG.json",
+            "name": "🚀玉玉-PG"
+        },
+        {
+            "url": "http://175.24.189.226/box/tvbox/Ray/Ray.json",
+            "name": "🚀玉玉-Ray"
+        },
+        {
+            "url": "http://175.24.189.226/box/tvbox/buliangshuai/buliangshuai.json",
+            "name": "🚀玉玉-buliangshuai"
         },
         {
             "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
@@ -380,7 +408,7 @@
         },
         {
             "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "🚀男装"
+            "name": "🚀D佬"
         },
         {
             "url": "https://jk.cnrcs.link/jdnew.json",
@@ -417,6 +445,18 @@
         {
             "url": "https://jihulab.com/546199810/hx/-/raw/main/qb4k.txt",
             "name": "🚀恒星4K"
+        },
+        {
+            "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
+            "name": "🚀PG包"
+        },
+        {
+            "url": "https://chuanshuo.77blog.cn/tv.json",
+            "name": "🚀传说"
+        },
+        {
+            "url": "http://tvbox.王二小放牛娃.xyz",
+            "name": "🚀放牛娃"
         },
         {
             "url": "",
