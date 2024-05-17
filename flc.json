@@ -13,12 +13,12 @@
       "name": "📺sqspot-2"
     },
     {
-      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Ml.json?ref_type=heads",
-      "name": "📺dokiss"
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Mo.json?ref_type=heads",
+      "name": "📺dokiss-mo"
     },
     {
-      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/Ml.json",
-      "name": "📺dokiss-2"
+      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/Mo.json",
+      "name": "📺dokiss-mo2"
     },
     {
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/SX.json?ref_type=heads",
@@ -37,14 +37,6 @@
       "name": "📺zzh"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json",
-      "name": "📺xfcjp"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json",
-      "name": "📺Dong-learn9"
-    },
-    {
       "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
       "name": "📺bizhangjie"
     },
@@ -55,6 +47,30 @@
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
       "name": "📺qirenzhidao"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jessic01/box1/main/18.json",
+      "name": "📺jessic01"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
+      "name": "📺qaz1371041"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00tvx1.txt",
+      "name": "📺c120487"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xibao999/m/master/h%203.json",
+      "name": "📺c120487"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/fenwe.adult.txt",
+      "name": "📺fish2018-fenwe"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Sex.txt",
+      "name": "📺fish2018-sx"
     },
     {
       "url": "",
