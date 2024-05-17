@@ -1,0 +1,64 @@
+{
+  "urls": [
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+      "name": "📺ygbg[3333]"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sqspot/tac/main/18.js",
+      "name": "📺sqspot"
+    },
+    {
+      "url": "https://152.32.170.60/dlee2008/sqspot/raw/branch/main/18.js",
+      "name": "📺sqspot-2"
+    },
+    {
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Ml.json?ref_type=heads",
+      "name": "📺dokiss"
+    },
+    {
+      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/Ml.json",
+      "name": "📺dokiss-2"
+    },
+    {
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/SX.json?ref_type=heads",
+      "name": "📺dokiss-sx"
+    },
+    {
+      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/SX.json",
+      "name": "📺dokiss-sx2"
+    },
+    {
+      "url": "https://notabug.org/cacifer/adult/raw/master/x.bmp",
+      "name": "📺xbmp"
+    },
+    {
+      "url": "https://152.32.170.60/376242575/zzh/raw/branch/master/A.txt",
+      "name": "📺zzh"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json",
+      "name": "📺xfcjp"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Dong-learn9/TVBox-zyjk/main/18.json",
+      "name": "📺Dong-learn9"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+      "name": "📺bizhangjie"
+    },
+    {
+      "url": "https://cloud.lxweb.cn/f/eZNZCa/A.txt",
+      "name": "📺eZNZCa"
+    },
+    {
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
+      "name": "📺qirenzhidao"
+    },
+    {
+      "url": "",
+      "name": "🚀未用"
+    }
+  ]
+}

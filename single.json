@@ -25,10 +25,6 @@
             "name": "🚀老刘备|一般"
         },
         {
-            "url": "https://152.32.170.60/guot54/yg88/raw/branch/main/pro.json",
-            "name": "🚀月光宝盒"
-        },
-        {
 //            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "url": "https://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🚀南风"
@@ -259,8 +255,20 @@
             "name": "🚀新熊"
         },
         {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json",
+            "name": "🚀月光宝盒max"
+        },
+        {
+            "url": "https://152.32.170.60/guot54/yg88/raw/branch/main/pro.json",
+            "name": "🚀月光宝盒pro3333"
+        },
+        {
             "url": "http://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "🚀ygbh[有广告]"
+        },
+        {
+            "url": "https://dpaste.org/bXXn6/raw",
+            "name": "🚀月宝"
         },
         {
             "url": "https://pan.shangui.cc/f/64BNTp/69.json",
@@ -273,6 +281,10 @@
         {
             "url": "http://ok321.top/ok",
             "name": "🚀OK大佬"
+        },
+        {
+            "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
+            "name": "🚀OK大佬2"
         },
         {
             "url": "http://tv.ttvv.world/tv.json",
@@ -399,10 +411,6 @@
             "name": "🚀少儿"
         },
         {
-            "url": "https://dpaste.org/bXXn6/raw",
-            "name": "🚀月宝"
-        },
-        {
             "url": "https://tvbox.wmmys.cn",
             "name": "🚀王某"
         },
@@ -457,6 +465,38 @@
         {
             "url": "http://tvbox.王二小放牛娃.xyz",
             "name": "🚀放牛娃"
+        },
+        {
+            "url": "https://152.32.170.60/yu/piza/raw/branch/main/影视/api.json",
+            "name": "🚀PizazzGY[ys]"
+        },
+        {
+            "url": "https://152.32.170.60/yu/piza/raw/branch/main/动漫/api.json",
+            "name": "🚀PizazzGY[动漫]"
+        },
+        {
+            "url": "https://152.32.170.60/yu/piza/raw/branch/main/文艺/api.json",
+            "name": "🚀PizazzGY[文艺]"
+        },
+        {
+            "url": "https://152.32.170.60/yu/piza/raw/branch/main/体育/api.json",
+            "name": "🚀PizazzGY[体育]"
+        },
+        {
+            "url": "https://152.32.170.60/yu/piza/raw/branch/main/教育/api.json",
+            "name": "🚀PizazzGY[教育]"
+        },
+        {
+            "url": "https://152.32.170.60/yu/piza/raw/branch/main/直播/api.json",
+            "name": "🚀PizazzGY[zb]"
+        },
+        {
+            "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json",
+            "name": "🚀yydsy"
+        },
+        {
+            "url": "http://183.93.62.171:9089/TVBOX/tvbox.json",
+            "name": "🚀加合"
         },
         {
             "url": "",
