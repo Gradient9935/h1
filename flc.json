@@ -29,6 +29,14 @@
       "name": "📺dokiss-sx2"
     },
     {
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/FP.json?ref_type=heads",
+      "name": "📺dokiss-FP"
+    },
+    {
+      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/FP.json",
+      "name": "📺dokiss-FP2"
+    },
+    {
       "url": "https://notabug.org/cacifer/adult/raw/master/x.bmp",
       "name": "📺xbmp"
     },
@@ -71,6 +79,10 @@
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/Sex.txt",
       "name": "📺fish2018-sx"
+    },
+    {
+      "url": "https://tv.youdu.fan:666/公子/",
+      "name": "📺duhe公子"
     },
     {
       "url": "",

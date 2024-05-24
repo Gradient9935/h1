@@ -50,7 +50,6 @@
             "name": "🚀zhanghong|自用"
         },
         {
-//            "url": "https://github.com/zhanghong1983/tvboxzy/raw/main/自用.json",
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/自用.json",
             "name": "🚀zhanghong"
         },
@@ -131,12 +130,20 @@
             "name": "🚀dxawi0"
         },
         {
-            "url": "https://152.32.170.60/alanchaotang/if/raw/branch/main/X.json",
-            "name": "🚀alanchaotang"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
+            "name": "🚀alanchaotang[X]"
         },
         {
-            "url": "https://152.32.170.60/alanchaotang/X/raw/branch/main/X.json",
-            "name": "🚀alanchaotang[X]"
+            "url": "https://152.32.170.60/alanchaotang/if/raw/branch/main/X.json",
+            "name": "🚀alanchaotang[X]-2"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json",
+            "name": "🚀alanchaotang[PG]"
+        },
+        {
+            "url": "https://152.32.170.60/alanchaotang/pg/raw/branch/main/jsm.json",
+            "name": "🚀alanchaotang[PG]-2"
         },
         {
             "url": "https://152.32.170.60/cyl518/yl/raw/branch/master/pytv.json",
@@ -277,6 +284,14 @@
         {
             "url": "https://tv.youdu.fan:666/毒盒影视/",
             "name": "🚀毒盒"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/PG/",
+            "name": "🚀毒盒PG"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/香雅情XYQ/",
+            "name": "🚀毒盒XYQ"
         },
         {
             "url": "http://ok321.top/ok",
