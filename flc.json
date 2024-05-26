@@ -21,20 +21,12 @@
       "name": "📺dokiss-mo2"
     },
     {
-      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/SX.json?ref_type=heads",
-      "name": "📺dokiss-sx"
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-18+.json?ref_type=heads",
+      "name": "📺dokiss-doki"
     },
     {
-      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/SX.json",
-      "name": "📺dokiss-sx2"
-    },
-    {
-      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/FP.json?ref_type=heads",
-      "name": "📺dokiss-FP"
-    },
-    {
-      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/FP.json",
-      "name": "📺dokiss-FP2"
+      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/doki-18+.json",
+      "name": "📺dokiss-doki2"
     },
     {
       "url": "https://notabug.org/cacifer/adult/raw/master/x.bmp",

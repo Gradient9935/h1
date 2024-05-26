@@ -54,17 +54,17 @@
             "name": "🚀zhanghong"
         },
         {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/不良帅.m3u8",
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/不良帅.json",
             "name": "🚀qizhen不良帅"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬"
         },
-        {
-            "url": "https://神器每日推送.tk/pz.json",
-            "name": "🚀神器"
-        },
+//        {
+//            "url": "https://神器每日推送.tk/pz.json",
+//            "name": "🚀神器[打不开]"
+//        },
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长"
@@ -150,7 +150,7 @@
             "name": "🚀胖鸭[一般]"
         },
         {
-            "url": "https://152.32.170.60/smy/zy/raw/branch/master/csjk3.txt",
+            "url": "https://152.32.170.60/smy/zy/raw/branch/master/csjk.txt",
             "name": "🚀smy[3333]"
         },
         {
@@ -179,7 +179,7 @@
         },
         {
             "url": "http://bp.tvbox.cam/",
-            "name": "🚀小白"
+            "name": "🚀小白[一般]"
         },
         {
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/shichuanenhui/TvBox/main/mdxgh/api.json",
@@ -202,24 +202,12 @@
             "name": "🚀欧歌2"
         },
         {
-            "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
-            "name": "🚀夜猫子"
-        },
-        {
-            "url": "http://yydf.540734621.xyz/QQ/yydf.json",
+            "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
             "name": "🚀业余"
-        },
-        {
-            "url": "https://47.108.190.141/wx/yydf/yydf.json",
-            "name": "🚀业余2"
         },
         {
             "url": "http://175.24.189.226/xc.json",
             "name": "🚀玉玉"
-        },
-        {
-            "url": "https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/xc.json",
-            "name": "🚀玉玉2"
         },
         {
             "url": "http://175.24.189.226/box/tvbox/PG/PG.json",
@@ -265,17 +253,17 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "🚀月光宝盒max"
         },
-        {
-            "url": "https://152.32.170.60/guot54/yg88/raw/branch/main/pro.json",
-            "name": "🚀月光宝盒pro3333"
-        },
+//        {
+//            "url": "https://152.32.170.60/guot54/yg88/raw/branch/main/pro.json",
+//            "name": "🚀月光宝盒pro3333"
+//        },
         {
             "url": "http://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
             "name": "🚀ygbh[有广告]"
         },
         {
             "url": "https://dpaste.org/bXXn6/raw",
-            "name": "🚀月宝"
+            "name": "🚀月宝[有广告]"
         },
         {
             "url": "https://pan.shangui.cc/f/64BNTp/69.json",
@@ -326,12 +314,8 @@
             "name": "🚀小白"
         },
         {
-            "url": "https://json.qlkjy.cn/jk.json",
-            "name": "🚀奇乐"
-        },
-        {
-            "url": "https://gitee.com/dongchenys/liu/raw/master/hc.json",
-            "name": "🚀东辰"
+            "url": "https://gitee.com/dongchenys/liu/raw/master/hb.json",
+            "name": "🚀东辰|不定时更换"
         },
         {
             "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
@@ -403,11 +387,7 @@
         },
         {
             "url": "https://gitee.com/hsyw/test/raw/master/TW/1225.json",
-            "name": "🚀视界"
-        },
-        {
-            "url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-            "name": "🚀车妹"
+            "name": "🚀视界[可删]"
         },
         {
             "url": "https://download.kstore.space/download/2883/%E5%BD%B1%E8%A7%86%E4%BB%93.txt",
@@ -467,7 +447,7 @@
         },
         {
             "url": "https://jihulab.com/546199810/hx/-/raw/main/qb4k.txt",
-            "name": "🚀恒星4K"
+            "name": "🚀恒星4K[一般]"
         },
         {
             "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
@@ -486,33 +466,17 @@
             "name": "🚀PizazzGY[ys]"
         },
         {
-            "url": "https://152.32.170.60/yu/piza/raw/branch/main/动漫/api.json",
-            "name": "🚀PizazzGY[动漫]"
-        },
-        {
-            "url": "https://152.32.170.60/yu/piza/raw/branch/main/文艺/api.json",
-            "name": "🚀PizazzGY[文艺]"
-        },
-        {
-            "url": "https://152.32.170.60/yu/piza/raw/branch/main/体育/api.json",
-            "name": "🚀PizazzGY[体育]"
-        },
-        {
-            "url": "https://152.32.170.60/yu/piza/raw/branch/main/教育/api.json",
-            "name": "🚀PizazzGY[教育]"
-        },
-        {
-            "url": "https://152.32.170.60/yu/piza/raw/branch/main/直播/api.json",
-            "name": "🚀PizazzGY[zb]"
-        },
-        {
             "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json",
             "name": "🚀yydsy"
         },
         {
             "url": "http://183.93.62.171:9089/TVBOX/tvbox.json",
-            "name": "🚀加合"
+            "name": "🚀加合[一般]"
         },
+        //        {
+//            "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
+//            "name": "🚀夜猫子"
+//        },
         {
             "url": "",
             "name": "🚀未用"
