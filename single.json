@@ -42,6 +42,14 @@
             "name": "🚀金多宝"
         },
         {
+            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "name": "🚀D佬"
+        },
+        {
+            "url": "https://download.kstore.space/download/2883/%E5%BD%B1%E8%A7%86%E4%BB%93.txt",
+            "name": "🚀魔改"
+        },
+        {
             "url": "https://download.kstore.space/download/2883/m3u8/dsj/guochan/mp1/1.m3u8",
             "name": "🚀D大[一般]"
         },
@@ -386,14 +394,6 @@
             "name": "🚀畅看"
         },
         {
-            "url": "https://gitee.com/hsyw/test/raw/master/TW/1225.json",
-            "name": "🚀视界[可删]"
-        },
-        {
-            "url": "https://download.kstore.space/download/2883/%E5%BD%B1%E8%A7%86%E4%BB%93.txt",
-            "name": "🚀魔改"
-        },
-        {
             "url": "http://ttkx.live:55/天天开心",
             "name": "🚀开心"
         },
@@ -408,10 +408,6 @@
         {
             "url": "https://tvbox.wmmys.cn",
             "name": "🚀王某"
-        },
-        {
-            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
-            "name": "🚀D佬"
         },
         {
             "url": "https://jk.cnrcs.link/jdnew.json",
@@ -473,10 +469,6 @@
             "url": "http://183.93.62.171:9089/TVBOX/tvbox.json",
             "name": "🚀加合[一般]"
         },
-        //        {
-//            "url": "https://codeberg.org/Xym/ymz/raw/branch/main/夜猫子",
-//            "name": "🚀夜猫子"
-//        },
         {
             "url": "",
             "name": "🚀未用"
