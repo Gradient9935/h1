@@ -13,7 +13,7 @@
             "name": "🚀肥猫2"
         },
         {
-            "url": "http://饭太硬.top/tv",
+            "url": "http://www.饭太硬.com/tv/",
             "name": "🚀饭太硬"
         },
         {
@@ -24,10 +24,18 @@
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备|一般"
         },
+//        {
+////            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+//            "url": "https://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
+//            "name": "🚀南风"
+//        },
         {
-//            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "url": "https://152.32.170.60/Yoursmile7/TVBox/raw/branch/master/XC.json",
-            "name": "🚀南风"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀南风-github"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/XC.json",
+            "name": "🚀南风-github[可能不更新]"
         },
         {
             "url": "http://xhww.fun:63/小米/DEMO.json",
@@ -59,7 +67,7 @@
         },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/自用.json",
-            "name": "🚀zhanghong"
+            "name": "🚀zhanghong[好久未更新]"
         },
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/不良帅.json",
@@ -69,10 +77,6 @@
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬"
         },
-//        {
-//            "url": "https://神器每日推送.tk/pz.json",
-//            "name": "🚀神器[打不开]"
-//        },
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长"
@@ -85,10 +89,10 @@
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀巧技"
         },
-        {
-            "url": "https://152.32.170.60/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🚀巧技2"
-        },
+//        {
+//            "url": "https://152.32.170.60/relax/adcc/raw/branch/master/tvbox.json",
+//            "name": "🚀巧技2"
+//        },
         {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "🚀巧技3"
@@ -130,10 +134,6 @@
             "name": "🚀小马"
         },
         {
-            "url": "https://152.32.170.60/so/gao/raw/branch/master/js.json",
-            "name": "🚀sogao"
-        },
-        {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "🚀dxawi0"
         },
@@ -141,33 +141,13 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
             "name": "🚀alanchaotang[X]"
         },
-        {
-            "url": "https://152.32.170.60/alanchaotang/if/raw/branch/main/X.json",
-            "name": "🚀alanchaotang[X]-2"
-        },
+//        {
+//            "url": "https://152.32.170.60/alanchaotang/if/raw/branch/main/X.json",
+//            "name": "🚀alanchaotang[X]-2"
+//        },
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json",
             "name": "🚀alanchaotang[PG]"
-        },
-        {
-            "url": "https://152.32.170.60/alanchaotang/pg/raw/branch/main/jsm.json",
-            "name": "🚀alanchaotang[PG]-2"
-        },
-        {
-            "url": "https://152.32.170.60/cyl518/yl/raw/branch/master/pytv.json",
-            "name": "🚀胖鸭[一般]"
-        },
-        {
-            "url": "https://152.32.170.60/smy/zy/raw/branch/master/csjk.txt",
-            "name": "🚀smy[3333]"
-        },
-        {
-            "url": "https://152.32.170.60/ctt/0/raw/branch/main/0.json",
-            "name": "🚀ctt"
-        },
-        {
-            "url": "https://152.32.170.60/ctt/TVBoxSE/raw/branch/master/FongMi.json",
-            "name": "🚀ctt-fongmi"
         },
         {
             "url": "https://raw.gitmirror.com/T00700/TVBoxSE/master/FongMi.json",
@@ -182,10 +162,6 @@
             "name": "🚀Ray"
         },
         {
-            "url": "https://152.32.170.60/kvymin/TVRule/raw/branch/master/config.json",
-            "name": "🚀kvymin"
-        },
-        {
             "url": "http://bp.tvbox.cam/",
             "name": "🚀小白[一般]"
         },
@@ -197,10 +173,10 @@
             "url": "https://raw.kkgithub.com/liu673cn/box/main/m.json",
             "name": "🚀liu673cn"
         },
-        {
-            "url": "https://152.32.170.60/dlee2008/liu673cn/raw/branch/main/m.json",
-            "name": "🚀liu673cn-2"
-        },
+//        {
+//            "url": "https://152.32.170.60/dlee2008/liu673cn/raw/branch/main/m.json",
+//            "name": "🚀liu673cn-2"
+//        },
         {
             "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
             "name": "欧歌"
@@ -215,7 +191,7 @@
         },
         {
             "url": "http://175.24.189.226/xc.json",
-            "name": "🚀玉玉"
+            "name": "🚀玉玉-xc"
         },
         {
             "url": "http://175.24.189.226/box/tvbox/PG/PG.json",
@@ -230,19 +206,19 @@
             "name": "🚀玉玉-buliangshuai"
         },
         {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀高天"
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀高天-js"
         },
         {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
             "name": "🚀高天-fty"
         },
         {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
             "name": "🚀高天-pg"
         },
         {
-            "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
             "name": "🚀高天-香雅情"
         },
         {
@@ -261,14 +237,14 @@
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/max.json",
             "name": "🚀月光宝盒max"
         },
-//        {
-//            "url": "https://152.32.170.60/guot54/yg88/raw/branch/main/pro.json",
-//            "name": "🚀月光宝盒pro3333"
-//        },
         {
-            "url": "http://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "🚀ygbh[有广告]"
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
+            "name": "🚀月光宝盒PG"
         },
+//        {
+//            "url": "http://152.32.170.60/66666/mao/raw/branch/master/00/000.m3u8",
+//            "name": "🚀ygbh[有广告]"
+//        },
         {
             "url": "https://dpaste.org/bXXn6/raw",
             "name": "🚀月宝[有广告]"
@@ -328,10 +304,6 @@
         {
             "url": "https://gitee.com/tvkj/tw/raw/main/svip.json",
             "name": "🚀天薇"
-        },
-        {
-            "url": "http://152.32.170.60/ddx/TVBox/raw/branch/master/t4.json",
-            "name": "🚀猫技"
         },
         {
             "url": "https://raw.gitcode.com/Xymz/ymz/blobs/daf2a0b4b029cb681d788e30924c0a417e2d1e9a/夜猫子",
@@ -446,10 +418,6 @@
             "name": "🚀恒星4K[一般]"
         },
         {
-            "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
-            "name": "🚀PG包"
-        },
-        {
             "url": "https://chuanshuo.77blog.cn/tv.json",
             "name": "🚀传说"
         },
@@ -457,14 +425,54 @@
             "url": "http://tvbox.王二小放牛娃.xyz",
             "name": "🚀放牛娃"
         },
-        {
-            "url": "https://152.32.170.60/yu/piza/raw/branch/main/影视/api.json",
-            "name": "🚀PizazzGY[ys]"
-        },
-        {
-            "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json",
-            "name": "🚀yydsy"
-        },
+//        {
+//            "url": "https://神器每日推送.tk/pz.json",
+//            "name": "🚀神器[打不开]"
+//        },
+//        {
+//            "url": "https://152.32.170.60/so/gao/raw/branch/master/js.json",
+//            "name": "🚀sogao"
+//        },
+//        {
+//            "url": "https://152.32.170.60/alanchaotang/pg/raw/branch/main/jsm.json",
+//            "name": "🚀alanchaotang[PG]-2"
+//        },
+//        {
+//            "url": "https://152.32.170.60/cyl518/yl/raw/branch/master/pytv.json",
+//            "name": "🚀胖鸭[一般]"
+//        },
+//        {
+//            "url": "https://152.32.170.60/smy/zy/raw/branch/master/csjk.txt",
+//            "name": "🚀smy[3333]"
+//        },
+//        {
+//            "url": "https://152.32.170.60/ctt/0/raw/branch/main/0.json",
+//            "name": "🚀ctt"
+//        },
+//        {
+//            "url": "https://152.32.170.60/ctt/TVBoxSE/raw/branch/master/FongMi.json",
+//            "name": "🚀ctt-fongmi"
+//        },
+//        {
+//            "url": "https://152.32.170.60/kvymin/TVRule/raw/branch/master/config.json",
+//            "name": "🚀kvymin"
+//        },
+//        {
+//            "url": "https://152.32.170.60/leevi/PiG/raw/branch/master/jsm.json",
+//            "name": "🚀PG包"
+//        },
+//        {
+//            "url": "http://152.32.170.60/ddx/TVBox/raw/branch/master/t4.json",
+//            "name": "🚀猫技"
+//        },
+//        {
+//            "url": "https://152.32.170.60/yu/piza/raw/branch/main/影视/api.json",
+//            "name": "🚀PizazzGY[ys]"
+//        },
+//        {
+//            "url": "https://152.32.170.60/ystvy/yydsy/raw/branch/master/ati.json",
+//            "name": "🚀yydsy"
+//        },
         {
             "url": "http://183.93.62.171:9089/TVBOX/tvbox.json",
             "name": "🚀加合[一般]"
