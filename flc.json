@@ -8,34 +8,18 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sqspot/tac/main/18.js",
       "name": "📺sqspot"
     },
-//    {
-//      "url": "https://152.32.170.60/dlee2008/sqspot/raw/branch/main/18.js",
-//      "name": "📺sqspot-2"
-//    },
     {
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/Mo.json?ref_type=heads",
       "name": "📺dokiss-mo"
     },
-//    {
-//      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/Mo.json",
-//      "name": "📺dokiss-mo2"
-//    },
     {
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-18+.json?ref_type=heads",
       "name": "📺dokiss-doki"
     },
-//    {
-//      "url": "https://152.32.170.60/1018610504/dokiss/raw/branch/master/doki-18+.json",
-//      "name": "📺dokiss-doki2"
-//    },
     {
       "url": "https://notabug.org/cacifer/adult/raw/master/x.bmp",
       "name": "📺xbmp"
     },
-//    {
-//      "url": "https://152.32.170.60/376242575/zzh/raw/branch/master/A.txt",
-//      "name": "📺zzh"
-//    },
     {
       "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
       "name": "📺bizhangjie"
