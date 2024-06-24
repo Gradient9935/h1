@@ -221,8 +221,20 @@
             "name": "🚀月光宝盒max"
         },
         {
+            "url": "https://gitlab.com/guot55/bh/-/raw/main/max.json",
+            "name": "🚀月光宝盒max2"
+        },
+        {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pg/jsm.json",
             "name": "🚀月光宝盒PG"
+        },
+        {
+            "url": "https://gitlab.com/guot55/bh/-/raw/main/pg/jsm.json",
+            "name": "🚀月光宝盒PG|gitlab"
+        },
+        {
+            "url": "https://gitlab.com/guot55/bh/-/raw/main/pg/bh.json",
+            "name": "🚀月光宝盒|gitlab"
         },
         {
             "url": "https://dpaste.org/bXXn6/raw",
@@ -251,6 +263,10 @@
         {
             "url": "https://jihulab.com/okcaptain/kko/-/raw/main/tv.txt",
             "name": "🚀OK大佬2"
+        },
+        {
+            "url": "https://gitee.com/okjack/okk/raw/master/op.txt",
+            "name": "🚀OK大佬3"
         },
         {
             "url": "http://tv.ttvv.world/tv.json",
@@ -329,12 +345,20 @@
             "name": "🚀摸鱼"
         },
         {
+            "url": "https://www.xn--v4q818bf34b.com/",
+            "name": "🚀摸鱼"
+        },
+        {
             "url": "https://xs.magiclee.cn/jk/1080.txt",
             "name": "🚀思牧"
         },
         {
             "url": "http://www.wya6.cn/tv/wd.json",
             "name": "🚀无意"
+        },
+        {
+            "url": "http://www.wya6.cn/tv/yc.json",
+            "name": "🚀无意2"
         },
         {
             "url": "https://hezi.tvboxhz.top/TVBOX盒子",
@@ -407,6 +431,34 @@
         {
             "url": "http://183.93.62.171:9089/TVBOX/tvbox.json",
             "name": "🚀加合[一般]"
+        },
+        {
+            "url": "https://tv.菜妮丝.top",
+            "name": "🚀菜妮丝"
+        },
+        {
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "🚀多多|pg"
+        },
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🚀潇洒"
+        },
+        {
+            "url": "http://meowtv.top/tv",
+            "name": "🚀喵影视"
+        },
+        {
+            "url": "http://www.weetai.cn/tvbox.json",
+            "name": "🚀喵影视2"
+        },
+        {
+            "url": "https://www.macms.pro/box/3.json",
+            "name": "🚀万达"
+        },
+        {
+            "url": "http://sinopacifichk.com/box/56.txt",
+            "name": "🚀太平洋"
         },
         {
             "url": "",
