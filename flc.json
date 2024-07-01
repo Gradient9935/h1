@@ -18,7 +18,11 @@
     },
     {
       "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-18+.json?ref_type=heads",
-      "name": "📺dokiss-doki"
+      "name": "📺dokiss-doki18"
+    },
+    {
+      "url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-19+.json?ref_type=heads",
+      "name": "📺dokiss-doki19"
     },
     {
       "url": "https://notabug.org/cacifer/adult/raw/master/x.bmp",
@@ -48,7 +52,6 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/fenwe.adult.txt",
       "name": "📺fish2018-fenwe[一般]"
     },
-//    以下是新加
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
       "name": "📺高天[3333]"
