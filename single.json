@@ -8,18 +8,14 @@
             "url": "http://肥猫.com/",
             "name": "🚀肥猫"
         },
-//        {
-//            "url": "http://like.肥猫.com/你好",
-//            "name": "🚀肥猫2[打不开]"
-//        },
+        {
+            "url": "http://like.肥猫.com/你好",
+            "name": "🚀肥猫2[打不开]"
+        },
         {
             "url": "http://www.饭太硬.com/tv/",
             "name": "🚀饭太硬"
         },
-//        {
-//            "url": "https://fan.xxooo.cf/tv",
-//            "name": "🚀饭太硬-备[打不开]"
-//        },
         {
             "url": "https://raw.kkgithub.com/liu673cn/box/main/m.json",
             "name": "🚀liu673cn"
@@ -121,6 +117,10 @@
             "name": "🚀alanchaotang[PG]"
         },
         {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/alantang1977/X/main/a.json",
+            "name": "🚀alanchaotang[a]"
+        },
+        {
             "url": "https://xhdwc.tk/0",
             "name": "🚀Ray"
         },
@@ -135,6 +135,10 @@
         {
             "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
             "name": "🚀欧歌2"
+        },
+        {
+            "url": "https://u.nxog.top/m/",
+            "name": "🚀欧歌3"
         },
         {
             "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
@@ -237,6 +241,10 @@
             "name": "🚀盒迷"
         },
         {
+            "url": "https://盒子迷.top/春盈天下",
+            "name": "🚀盒迷-春盈天下"
+        },
+        {
             "url": "https://www.cwss.xyz/刺猬线路禁止贩卖",
             "name": "🚀刺猬"
         },
@@ -329,6 +337,10 @@
             "name": "🚀xczg"
         },
         {
+            "url": "https://notabug.org/mabi/zbs/raw/master/xczg.json",
+            "name": "🚀xczg-2"
+        },
+        {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
             "name": "🚀lem[有广告]"
         },
@@ -416,66 +428,70 @@
             "url": "https://gitlab.com/tvtg/pg/-/raw/main/api.json",
             "name": "🚀小米"
         },
-//        {
-//            "url": "http://tipu.xjqxz.top/a001.asp",
-//            "name": "🚀小苹果[打不开]"
-//        },
-//        {
-//            "url": "https://tv.lan2wan.top/candymuj.json",
-//            "name": "🚀看电影[打不开]"
-//        },
-//        {
-//            "url": "https://jk.cnrcs.link/jdnew.json",
-//            "name": "🚀极简[打不开]"
-//        },
-//        {
-//            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Yoursmile77/TVBox/main/XC.json",
-//            "name": "🚀南风-github[可能不更新]"
-//        },
-//        {
-//            "url": "http://xhww.fun:63/小米/DEMO.json",
-//            "name": "🚀小米[打不开]"
-//        },
-//        {
-//            "url": "http://xhww.fun/小米/DEMO.json",
-//            "name": "🚀小米2[打不开]"
-//        },
-//        {
-//            "url": "http://rihou.vip:88/荷城茶秀",
-//            "name": "🚀荷城茶秀2[打不开]"
-//        },
-//        {
-//            "url": "http://rihou.vip:55/天天开心",
-//            "name": "🚀天天开心[打不开]"
-//        },
-//        {
-//            "url": "http://175.24.189.226/xc.json",
-//            "name": "🚀玉玉-xc[打不开]"
-//        },
-//        {
-//            "url": "http://175.24.189.226/box/tvbox/PG/PG.json",
-//            "name": "🚀玉玉-PG[打不开]"
-//        },
-//        {
-//            "url": "http://175.24.189.226/box/tvbox/Ray/Ray.json",
-//            "name": "🚀玉玉-Ray[打不开]"
-//        },
-//        {
-//            "url": "http://175.24.189.226/box/tvbox/buliangshuai/buliangshuai.json",
-//            "name": "🚀玉玉-buliangshuai[打不开]"
-//        },
-//        {
-//            "url": "https://tv.youdu.fan:666/毒盒影视/",
-//            "name": "🚀毒盒[打不开]"
-//        },
-//        {
-//            "url": "https://tv.youdu.fan:666/PG/",
-//            "name": "🚀毒盒PG[打不开]"
-//        },
-//        {
-//            "url": "https://tv.youdu.fan:666/香雅情XYQ/",
-//            "name": "🚀毒盒XYQ[打不开]"
-//        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/daiweichun.json",
+            "name": "🚀daiweichun"
+        },
+        {
+            "url": "http://tipu.xjqxz.top/a001.asp",
+            "name": "🚀小苹果[打不开]"
+        },
+        {
+            "url": "https://毒盒.com/tv",
+            "name": "🚀毒盒[主]"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/毒盒影视/",
+            "name": "🚀毒盒[备]"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/香雅情XYQ/",
+            "name": "🚀毒盒XYQ[打不开]"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/OK/api.json",
+            "name": "🚀chendi0207-OK"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/PG/api.json",
+            "name": "🚀chendi0207-PG"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/天天开心/api.json",
+            "name": "🚀chendi0207-天天"
+        },
+        {
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/main/tvboxqq/小米/api.json",
+            "name": "🚀chendi0207-小米"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/小米/api.json",
+            "name": "🚀ls125781003-小米"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/drpy_t3/api.json",
+            "name": "🚀ls125781003-drpy_t3"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/OK/api.json",
+            "name": "🚀ls125781003-OK"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/PG/api.json",
+            "name": "🚀ls125781003-PG"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/王二小/api.json",
+            "name": "🚀ls125781003-王二小"
+        },
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/天天开心/api.json",
+            "name": "🚀ls125781003-天天"
+        },
+        {
+            "url": "https://tv.tv520.shop/",
+            "name": "🚀茄子库"
+        },
         {
             "url": "",
             "name": "🚀未用"
