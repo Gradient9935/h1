@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
       "name": "📺ygbg-pro[3333]"
     },
     {
@@ -9,7 +9,11 @@
       "name": "📺ygbg-pro|gitlab"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/sqspot/tac/main/18.js",
+      "url": "https://gitcode.net/ygbh66/666/-/raw/master/yt.txt",
+      "name": "📺ygbg-yt|gitcode"
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/sqspot/tac/main/18.js",
       "name": "📺sqspot"
     },
     {
@@ -29,7 +33,7 @@
       "name": "📺xbmp"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
+      "url": "https://github.moeyy.xyz/https://github.com/bizhangjie/CatVodSpider/blob/main/json/index18.json",
       "name": "📺bizhangjie"
     },
     {
@@ -37,24 +41,68 @@
       "name": "📺eZNZCa"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
       "name": "📺qirenzhidao"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jessic01/box1/main/18.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jessic01/box1/main/18.json",
       "name": "📺jessic01[一般]"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/qaz1371041/tvbox/main/18.json",
       "name": "📺qaz1371041[一般]"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/fenwe.adult.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fish2018/tvbox/master/fenwe.adult.txt",
       "name": "📺fish2018-fenwe[一般]"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
       "name": "📺高天[3333]"
+    },
+    {
+      "url": "https://qu.ax/SOBs.json",
+      "name": "📺sobs"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te1.json",
+      "name": "📺haibing-1"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te2.json",
+      "name": "📺haibing-2"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te3.json",
+      "name": "📺haibing-3"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te4.json",
+      "name": "📺haibing-4"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te15.json",
+      "name": "📺haibing-5"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te6.json",
+      "name": "📺haibing-6"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te17.json",
+      "name": "📺haibing-7"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te18.json",
+      "name": "📺haibing-8"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te10.json",
+      "name": "📺haibing-9"
+    },
+    {
+      "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/fl/te11.json",
+      "name": "📺haibing-10"
     },
     {
       "url": "",
