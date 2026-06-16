@@ -21,12 +21,8 @@
             "name": "🚀饭太硬[备2]"
         },
         {
-            "url": "https://raw.kkgithub.com/liu673cn/box/main/m.json",
-            "name": "🚀liu673cn"
-        },
-        {
             "url": "https://raw.liucn.cc/box/m.json",
-            "name": "🚀老刘备|一般"
+            "name": "🚀老刘备[好久未更新]"
         },
         {
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
@@ -41,32 +37,8 @@
             "name": "🚀南风-github3"
         },
         {
-            "url": "https://wds.ecsxs.com/224066.json",
-            "name": "🚀金多宝[一般]"
-        },
-        {
-            "url": "https://notabug.org/Waggle5405/my2/raw/main/tvbox.json",
-            "name": "🚀zhanghong|自用"
-        },
-        {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/zhanghong1983/tvboxzy/main/自用.json",
-            "name": "🚀zhanghong[好久未更新]"
-        },
-        {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬"
-        },
-        {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
-            "name": "🚀巧技"
-        },
-        {
-            "url": "http://cdn.qiaoji8.com/tvbox.json",
-            "name": "🚀巧技2"
-        },
-        {
-            "url": "https://100km.top/0",
-            "name": "100km"
         },
         {
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
@@ -77,24 +49,12 @@
             "name": "香雅情2"
         },
         {
-            "url": "http://rihou.cc:88/荷城茶秀",
-            "name": "🚀荷城茶秀"
-        },
-        {
-            "url": "https://dxawi.github.io/0/0.json",
-            "name": "🚀dxawi0"
-        },
-        {
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
             "name": "🚀alanchaotang[X]"
         },
         {
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json",
             "name": "🚀alanchaotang[PG]"
-        },
-        {
-            "url": "https://gh.xxooo.cf/raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json",
-            "name": "🚀码点"
         },
         {
             "url": "http://tv.nxog.top/m/",
@@ -133,43 +93,19 @@
             "name": "🚀月光宝盒PG"
         },
         {
-            "url": "http://ok321.top/ok",
-            "name": "🚀OK大佬[需要激活码]"
-        },
-        {
-            "url": "http://mdxgh.tpddns.cn:9999/md.json",
-            "name": "🚀码点"
-        },
-        {
-            "url": "http://ztha.top/TVBox/thdjk.json",
-            "name": "🚀挺好"
-        },
-        {
-            "url": "http://ztha.top/catjs/JS/js.json",
-            "name": "🚀挺JS"
-        },
-        {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/lmclub/box/main/app/conf/tv.json",
-            "name": "🚀龙门[有广告]"
-        },
-        {
             "url": "https://盒子迷.top/禁止贩卖",
             "name": "🚀盒迷"
         },
         {
-            "url": "https://盒子迷.top/春盈天下",
-            "name": "🚀盒迷-春盈天下"
-        },
-        {
-            "url": "https://www.xn--rgv465a.top/无界线路Pro版",
+            "url": "https://www.xn--rgv465a.top/pro.json",
             "name": "🚀无界pro"
         },
         {
-            "url": "https://www.xn--rgv465a.top/无界线路Lite版",
+            "url": "https://www.xn--rgv465a.top/lite.json",
             "name": "🚀无界Lite"
         },
         {
-            "url": "https://www.xn--rgv465a.top/无界线路Kids版",
+            "url": "https://www.xn--rgv465a.top/kids.json",
             "name": "🚀无界Kids"
         },
         {
@@ -347,10 +283,6 @@
         {
             "url": "https://fmbox.cc",
             "name": "🚀星辰"
-        },
-        {
-            "url": "http://ok213.top/tv",
-            "name": "🚀ok老师"
         },
         {
             "url": "",
