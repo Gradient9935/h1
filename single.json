@@ -213,6 +213,30 @@
             "name": "🚀心魔"
         },
         {
+            "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
+            "name": "🚀qist-潇洒"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
+            "name": "🚀qist-潇洒2"
+        },
+        {
+            "url": "https://qist.wyfc.qzz.io/jsm.json",
+            "name": "🚀qist-jsm"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+            "name": "🚀qist-jsm2"
+        },
+        {
+            "url": "https://qist.wyfc.qzz.io/fty.json",
+            "name": "🚀qist-fty"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/qist/tvbox/master/fty.json",
+            "name": "🚀qist-fty2"
+        },
+        {
             "url": "",
             "name": "🚀未用"
         }
