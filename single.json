@@ -110,11 +110,11 @@
         },
         {
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "香雅情"
+            "name": "香雅情[好久未更新]"
         },
         {
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
-            "name": "香雅情2"
+            "name": "香雅情2[好久未更新]"
         },
         {
             "url": "http://tv.nxog.top/m/",
@@ -145,25 +145,29 @@
             "name": "🚀月光宝盒bh[好久未更新]"
         },
         {
-            "url": "https://gitee.com/baohe2025/bh/raw/master/0913pmd.jpg",
-            "name": "🚀月光宝盒gitee"
-        },
-        {
             "url": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/jh.json",
             "name": "🚀月光宝盒-jh"
         },
         {
-            "url": "https://bitbucket.org/guot55/bhmb/raw/main/boss.json",
-            "name": "🚀月光宝盒-boss"
+            "url": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/box.json",
+            "name": "🚀月光宝盒-box"
+        },
+        {
+            "url": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/omg.json",
+            "name": "🚀月光宝盒-omg"
+        },
+        {
+            "url": "https://3043.kstore.space/bhvip/bh/tv%EF%B9%A2.json",
+            "name": "🚀月光宝盒-kstore"
+        },
+        {
+            "url": "https://bitbucket.org/guot55/bhkj/raw/main/tv%2B",
+            "name": "🚀月光宝盒-t"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备[好久未更新]"
         },
-//        {
-//            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/alantang1977/X/main/X.json",
-//            "name": "🚀alanchaotang[X]-已取消"
-//        },
         {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/pg/main/jsm.json",
             "name": "🚀alanchaotang[jsm]"
@@ -171,10 +175,6 @@
         {
             "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
             "name": "🚀少儿"
-        },
-        {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
-            "name": "🚀lem[有广告]"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
@@ -233,8 +233,12 @@
             "name": "🚀clun在线"
         },
         {
-            "url": "hhttps://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/main/box.json",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/main/box.json",
             "name": "🚀clun在线2"
+        },
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/main/jsm.json",
+            "name": "🚀clun在线-jsm"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
@@ -297,24 +301,28 @@
             "name": "🚀小米1"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/main/json/demo.json",
-            "name": "🚀小米2"
-        },
-        {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
             "name": "🚀雷蒙"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/25175/tvyuan/master/tvbox_full.json",
-            "name": "🚀tvyuan"
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lem.json",
+            "name": "🚀雷蒙2[有广告]"
         },
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/25175/tvyuan/master/tvbox.json",
-            "name": "🚀tvyuan-2"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/wan828963-code/tvbox-config/main/tvbox-full.json",
+            "name": "🚀wan828963"
         },
         {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/PickPunk/TVbox-ZYplayer/main/ZY.json",
-            "name": "🚀PickPunk"
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/hulanlu/02/main/duanju.png",
+            "name": "🚀hulanlu-短剧"
+        },
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/hulanlu/05/main/lanlu.png",
+            "name": "🚀hulanlu-5"
+        },
+        {
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
+            "name": "🚀17712"
         },
         {
             "url": "",
