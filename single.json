@@ -77,11 +77,19 @@
             "name": "🚀摸鱼[主]"
         },
         {
+            "url": "http://www.y456y.com",
+            "name": "🚀摸鱼[主]2"
+        },
+        {
+            "url": "http://fish.y456y.com",
+            "name": "🚀摸鱼[主]3"
+        },
+        {
             "url": "http://我不是.摸鱼儿.cc",
             "name": "🚀摸鱼[备]"
         },
         {
-            "url": "https://www.xn--ihq545aq7p.com/",
+            "url": "http://我不是.小不点.com",
             "name": "🚀摸鱼[备-小不点]"
         },
         {
@@ -103,6 +111,10 @@
         {
             "url": "http://new.999888123.xyz",
             "name": "🚀放牛娃[二代接口2]"
+        },
+        {
+            "url": "https://9280.kstore.vip/newwex.json",
+            "name": "🚀放牛娃[ks]"
         },
         {
             "url": "http://home.jundie.top:81/top98.json",
@@ -211,6 +223,14 @@
         {
             "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
             "name": "🚀影视仓[备]"
+        },
+        {
+            "url": "http://www.影视仓.net",
+            "name": "🚀影视仓2"
+        },
+        {
+            "url": "https://700sjro44343.vicp.fun/240731/one/",
+            "name": "🚀影视仓3"
         },
         {
             "url": "http://xhztv.top/4k.json",
@@ -323,6 +343,130 @@
         {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/1771245847/TvBox/master/tvbox.json",
             "name": "🚀17712"
+        },
+        {
+            "url": "https://yd.zlinlang.com/jieluntan-fty.json",
+            "name": "🚀jieluntan-fty"
+        },
+        {
+            "url": "https://cnb.cool/fish2035/xs/-/git/raw/main/api.json",
+            "name": "🚀fish2035-潇洒"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/fantaiying/fty.json",
+            "name": "dodgezhang-fty"
+        },
+       {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/fantaiying/fty.json",
+            "name": "dodgezhang-fty2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/feimao/fm.json",
+            "name": "dodgezhang-肥猫"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/feimao/fm.json",
+            "name": "dodgezhang-肥猫2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/moyu/my.json",
+            "name": "dodgezhang-摸鱼"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/moyu/my.json",
+            "name": "dodgezhang-摸鱼2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/wangerxiao/wex.json",
+            "name": "dodgezhang-王二小"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/wangerxiao/wex.json",
+            "name": "dodgezhang-王二小2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/pangmao/pm.json",
+            "name": "dodgezhang-胖猫"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/pangmao/pm.json",
+            "name": "dodgezhang-胖猫2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/xiaosa/xs.json",
+            "name": "dodgezhang-潇洒"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/xiaosa/xs.json",
+            "name": "dodgezhang-潇洒2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/huban/hb.json",
+            "name": "dodgezhang-虎斑"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/huban/hb.json",
+            "name": "dodgezhang-虎斑2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/aowu/aw.json",
+            "name": "dodgezhang-嗷呜"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/aowu/aw.json",
+            "name": "dodgezhang-嗷呜2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/kulao/kl.json",
+            "name": "dodgezhang-裤佬"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/kulao/kl.json",
+            "name": "dodgezhang-裤佬2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/laozhang/lz.json",
+            "name": "dodgezhang-老张"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/laozhang/lz.json",
+            "name": "dodgezhang-老张2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/vox/vox.json",
+            "name": "dodgezhang-vox"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/vox/vox.json",
+            "name": "dodgezhang-vox2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/pg/pg.json",
+            "name": "dodgezhang-PG"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/pg/pg.json",
+            "name": "dodgezhang-PG2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/zhenxin/zx.json",
+            "name": "dodgezhang-真心"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/zhenxin/zx.json",
+            "name": "dodgezhang-真心2"
+        },
+        {
+            "url": "https://cnb.cool/dodgezhang/tvbox/-/git/raw/main/haitun/ht.json",
+            "name": "dodgezhang-海豚"
+        },
+        {
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/haitun/ht.json",
+            "name": "dodgezhang-海豚2"
+        },
+        {
+            "url": "https://chigua.eu.org",
+            "name": "东篱"
         },
         {
             "url": "",
